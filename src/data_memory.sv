@@ -51,7 +51,7 @@ module data_memory(
                 else                half_val = word[15:0];
               end
         
-              default: ; // word or invalid => ignore here
+              default: ; // word or invalid
             endcase
           end
         end
@@ -112,3 +112,4 @@ module data_memory(
         end
     end
 endmodule
+
