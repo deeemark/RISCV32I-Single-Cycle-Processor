@@ -1,6 +1,6 @@
 # RV32I Single-Cycle CPU (SystemVerilog)
 
-A fully functional **RV32I single-cycle RISC-V CPU** implemented in **SystemVerilog**, featuring byte/halfword/word memory access,
+A fully functional RV32I single-cycle RISC-V CPU implemented in SystemVerilog, with byte/halfword/word memory access,
 sign & zero extension, misalignment detection, and hex-file program loading.
 
 ---
