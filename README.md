@@ -21,7 +21,7 @@ sign & zero extension, misalignment detection, and hex-file program loading.
 - S-type(`SB`, `SH`, `SW`)
 - SB-type(`BEQ`, `BNE`, `BLT`, `BGE`, `BLTU`, `BGEU`)
 - U-type(`LUI`, `AUIPC`)
-- UJ-type(JAL)
+- UJ-type(`JAL`)
 
 ### Memory System
 
